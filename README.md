@@ -1,7 +1,7 @@
 # CM3dLDM
 
 The Cross Modality 3-Dimensional Latent Diffusion Model (CM3dLDM) introduces a novel image synthesis method for computed tomography (CT) volume generation from magnetic resonance imaging (MRI). 
-The provided code may be adapted for the synthesis of any modality, given the proper dataset is provided during training.
+The provided code may be adapted for the synthesis of any modality, given the proper dataset is provided during training. Details can be found in the paper here: https://ieeexplore.ieee.org/abstract/document/10635137
 
 # How to Use
 
